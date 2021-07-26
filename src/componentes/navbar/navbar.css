@@ -1,3 +1,7 @@
 .menu {
     background-color: darkgrey;
 }
+
+.menu a {
+    color: tomato !important;
+}

@@ -4,8 +4,9 @@ import Container from 'react-bootstrap/Container';
 import { Nav, Navbar } from 'react-bootstrap';
 
 const Menu = () => {
+
     return(
-        <Navbar bg="light" variant="light">
+        <Navbar className="menu">
             <Container>
                 <Navbar.Brand href="/">Paula Licausi</Navbar.Brand>
                 <Nav className="me-auto">

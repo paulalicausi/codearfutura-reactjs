@@ -1,0 +1,8 @@
+.home h2 {
+    margin: 50px 0;
+    border-bottom: 1px solid black;
+}
+
+.home .exp-laboral {
+    list-style: none;
+}
